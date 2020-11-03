@@ -1,0 +1,63 @@
+.HEADER-CONTAINER-PADRE {
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 120px;
+    background: #008000;
+}
+
+.NAV{
+    text-align: center;
+}
+
+.LI{
+    text-align: center;
+    
+    margin: 20px 60px 10px 10px ;
+}
+
+.UL{
+    list-style-type: none;
+    font-size: 25px;
+    font-family: sans-serif;
+    display: inline-flex;
+    text-align: center;
+    width: 85%;
+}
+
+.IMAGEN1{
+    margin: 20px 60px 0 0;
+}
+
+.body{
+    background-color: wheat;
+}
+
+
+
+.TITULO{
+    color: #0000ff;
+    background: #008000;
+    margin-bottom: 200px;
+    margin-top: 200px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.PRIMART{
+    margin-bottom: 50px;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.SEGART{
+    margin-bottom: 50px;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.FOOTER{
+    margin-bottom: 70px;
+    margin-top: 70px;
+    margin-left: 70px;
+    margin-right: 70px;
+}
